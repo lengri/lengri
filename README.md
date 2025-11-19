@@ -6,7 +6,7 @@ Sierra Nevada, Taiwan, and New Zealand.
 ## Featured Projects
 - **[riserfit](https://github.com/lengri/riserfit)** – A Python package for morphological dating of fluvial terraces
 - **[cosmotracer](https://github.com/lengri/cosmotracer)** – Combining landlab's landscape evolution modelling with cosmogenic nuclides!
-- **[pyLSD](https://github.com/lengri/cosmotracer)** – Cosmogenic nuclide production scaling factors from the Lifton-Stone-Dunai scaling scheme (Lifton et al. 2014)
+- **[pyLSD](https://github.com/lengri/cosmotracer)** – Cosmogenic nuclide production scaling factors from the Lifton-Sato-Dunai scaling scheme (Lifton et al. 2014)
 
 ## Links
 [🌐 Website](https://www.ucl.ac.uk/mathematical-physical-sciences/earth-sciences/people/research-students/lennart-grimm) | [🧪 Google Scholar](https://scholar.google.com/citations?user=Y-vg0BUAAAAJ&hl=de&authuser=1) | [🟢 ORCID](https://orcid.org/0009-0000-9548-3276)
